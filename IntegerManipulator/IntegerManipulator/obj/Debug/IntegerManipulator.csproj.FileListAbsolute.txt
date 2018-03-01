@@ -1,0 +1,8 @@
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\bin\Debug\IntegerManipulator.exe.config
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\bin\Debug\IntegerManipulator.exe
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\bin\Debug\IntegerManipulator.pdb
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\obj\Debug\IntegerManipulator.csprojResolveAssemblyReference.cache
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\obj\Debug\IntegerManipulator.exe
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\obj\Debug\IntegerManipulator.pdb
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\bin\Debug\nunit.framework.dll
+C:\Users\zenga\Documents\Projects\MVC\IntegerManipulator\IntegerManipulator\bin\Debug\nunit.framework.xml
